@@ -40,7 +40,7 @@ My final project is a simple Path of Exile fansite created using tools that were
 * (Pictures) - different background images for most pages. (HTML/CSS)
 * (Other) - server creation. (NodeJS/Express)
 
-# References
+# References / Sources
 #### Homepage
 * Bootstrap 4 (picture carousel) - https://getbootstrap.com/docs/4.0/components/carousel/
 * Bootstrap 4 (jumbotron) - https://getbootstrap.com/docs/4.0/components/jumbotron/
