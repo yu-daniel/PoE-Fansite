@@ -80,5 +80,8 @@ My final project is a simple Path of Exile fansite created using tools that were
 * button manipulation - https://www.w3schools.com/howto/howto_css_round_buttons.asp
 * button hover - https://developer.mozilla.org/en-US/docs/Web/CSS/:hover
 
+# Future Development/Improvements
+* transfer the hosting from OSU to a public server
+
 # Author
 [Daniel Yu](https://github.com/kuckikirukia)
