@@ -7,7 +7,7 @@ My final project is a simple Path of Exile fansite created using tools that were
  
  Hosted on: http://flip1.engr.oregonstate.edu:17590/
  
- Note: you must be logged in to OSU's VPN.
+ Note: (for instructors/graders) you must first be logged in to OSU's VPN.
  
 ![alt text]( https://github.com/kuckikirukia/PoE-Fansite/blob/main/public/img/1.png)
 ![alt text]( https://github.com/kuckikirukia/PoE-Fansite/blob/main/public/img/2.png)
@@ -79,3 +79,6 @@ My final project is a simple Path of Exile fansite created using tools that were
 * div manipulation - https://stackoverflow.com/questions/5590214/make-child-div-stretch-across-width-of-page
 * button manipulation - https://www.w3schools.com/howto/howto_css_round_buttons.asp
 * button hover - https://developer.mozilla.org/en-US/docs/Web/CSS/:hover
+
+# Author
+[Daniel Yu](https://github.com/kuckikirukia)
