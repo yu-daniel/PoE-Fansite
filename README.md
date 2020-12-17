@@ -13,7 +13,7 @@ My final project is a simple Path of Exile fansite created using tools that were
 ![alt text]( https://github.com/kuckikirukia/PoE-Fansite/blob/main/public/img/2.png)
 ![alt text]( https://github.com/kuckikirukia/PoE-Fansite/blob/main/public/img/3.png)
 
-# Project Features/Requirements
+# Project Features / Requirements
 
 #### Homepage
 * (Picture carousel) - includes autoplay and forward/back buttons. (Bootstrap 4)
