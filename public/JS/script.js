@@ -25,22 +25,22 @@ function createButtons(){
     divLeft.appendChild(button)
   }
 
-  var divRight = document.createElement("div")
-  divRight.classList = "leftBar"
+  // var divRight = document.createElement("div")
+  // divRight.classList = "leftBar"
 
-  rightLabels = ["POE's OFFICE SITE", "TWITCH", "CONTACT US"]
-  rightIDs = ["poeofficial", "twitch", "contact"]
+  // rightLabels = ["POE's OFFICE SITE", "TWITCH", "CONTACT US"]
+  // rightIDs = ["poeofficial", "twitch", "contact"]
 
-  for (var i=0; i<3; i++){
-    var rightButton = document.createElement("button")
-    rightButton.textContent = rightLabels[i]
-    rightButton.id = rightIDs[i]
-    rightButton.classList = "buttons"
-    divRight.appendChild(rightButton)
-  }
+  // for (var i=0; i<3; i++){
+  //   var rightButton = document.createElement("button")
+  //   rightButton.textContent = rightLabels[i]
+  //   rightButton.id = rightIDs[i]
+  //   rightButton.classList = "buttons"
+  //   divRight.appendChild(rightButton)
+  // }
 
   document.getElementById("body").appendChild(divLeft);
-  document.getElementById("body").appendChild(divRight);
+  // document.getElementById("body").appendChild(divRight);
 
 }
 
