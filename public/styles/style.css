@@ -34,33 +34,6 @@ div.build-wallpaper {
   top: 100%;
 }
 
-/* styling for the left/right div that hold the buttons in the horizontal menu */
-.rightBar {
-
-
-}
-
-/*.leftBar {
-  background-color: black;
-  overflow: hidden;
-   border: 1px solid rgb(252, 198, 3); 
-  position: absolute;
-  top: 3px;
-  right: 25px;
-}*/
-
-/* https://stackoverflow.com/questions/5590214/make-child-div-stretch-across-width-of-page */
-/* the background for the horizontal menu, (i.e. black background) */
-/*.backBar {
-  background-color: black;
-  border: 1px solid #bfbfbf;
-  position: absolute;
-  height: 38px;
-  top: 0;
-  left: 0;
-  right: 0;
-}*/
-
 /* footer bar for the download buttons in the media page */
 .footer {
   background-color: black;
@@ -171,7 +144,7 @@ a:hover {
   right: 25%;
   width: 50%;
   height: 250px;
-  text-align: center;
+  text-align: left;
 }
 
 
