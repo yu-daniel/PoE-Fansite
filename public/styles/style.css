@@ -44,6 +44,14 @@ div.build-wallpaper {
   background-size: cover;
 }
 
+img {
+  width: 100%;
+}
+div {
+  border: 1px solid black;
+  height: 100px;
+}
+
 .no-select {
   -webkit-user-select: none;  
   -moz-user-select: none;    
