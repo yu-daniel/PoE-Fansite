@@ -37,8 +37,8 @@ div.contact-wallpaper {
 }
 
 div.build-wallpaper {
-/*  width: auto;
-  height: 900px;*/
+  width: auto;
+  /*height: 900px;*/
   background-image:url('/img/bg3.jpg');
 
   height: 100%;
