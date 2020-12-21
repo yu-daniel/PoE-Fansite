@@ -9,7 +9,7 @@
 */
 div.home-wallpaper {
   width: auto;
-  height: 800px;
+/*  height: 800px;*/
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-image:url('/img/bg2.jpg');
