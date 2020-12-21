@@ -63,7 +63,7 @@ img:hover {
 
 /*#########################################################*/
 .container {
-  position: relative;
+  position: absolute;
   width: 50%;
 }
 
