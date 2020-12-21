@@ -165,6 +165,20 @@ a:hover {
   color: #bfbfbf;
 }
 
+.home {
+  border: 1px solid #bfbfbf;
+  margin-top: 3%;
+  left: 25%;
+  right: 25%;
+  width: 50%;
+  height: 85%;
+  overflow-y: scroll;
+  position: absolute;
+  background-color: #0d0d0d;
+  color: #bfbfbf;
+}
+
+
 .sources:hover {
   color: #bfbfbf;
   text-decoration: underline;
