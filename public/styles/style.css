@@ -161,6 +161,33 @@ a:hover {
   border-radius: 8px;
 }
 
+.home_jumbotron1 {
+  color: black;
+  border: 1px solid red; 
+  background-color: black;
+  top: 250px;
+  position: absolute;
+  left: 25%;
+  right: 25%;
+  width: 50%;
+  height: 250px;
+  text-align: left;
+  border-radius: 8px;
+}
+
+.home_jumbotron2 {
+  color: black;
+  border: 1px solid red; 
+  background-color: green;
+  top: 300px;
+  position: absolute;
+  left: 25%;
+  right: 25%;
+  width: 50%;
+  height: 250px;
+  text-align: left;
+  border-radius: 8px;
+}
 
 
 
