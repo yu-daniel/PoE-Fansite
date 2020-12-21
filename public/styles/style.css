@@ -135,6 +135,7 @@ a:hover {
   right: 25%;
   width: 50%;
   height: 85%;
+  top: 250px;
   overflow-y: scroll;
   position: absolute;
   background-color: #0d0d0d;
