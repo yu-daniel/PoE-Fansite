@@ -17,7 +17,7 @@ function createButtons(){
 
   labels = ["Home", "Blog", "Projects", "About", "Contact"]
   category = ["home", "blog", "projects", "about", "contact"]
-  for (var i=0; i<4; i++){
+  for (var i=0; i<5; i++){
     var button = document.createElement("button")
     button.textContent = labels[i]
     button.id = category[i]
