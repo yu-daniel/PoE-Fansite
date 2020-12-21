@@ -71,6 +71,13 @@ img:hover {
   text-align: center;
 }
 
+.text {
+  background-color: black;
+  color: white;
+  font-size: 16px;
+  padding: 16px 32px;
+}
+
 
 /*div {
   border: 1px solid #bfbfbf;
