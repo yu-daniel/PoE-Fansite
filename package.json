@@ -12,6 +12,7 @@
     "express": "^4.17.1",
     "express-handlebars": "^4.0.4",
     "forever": "^3.0.0",
-    "xmlhttprequest": "^1.8.0"
+    "xmlhttprequest": "^1.8.0",
+    "lightbox2": "^2.11.3"
   }
 }
