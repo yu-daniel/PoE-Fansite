@@ -34,6 +34,13 @@ div.build-wallpaper {
   top: 100%;
 }
 
+.no-select {
+  -webkit-user-select: none;  
+  -moz-user-select: none;    
+  -ms-user-select: none;      
+  user-select: none;
+}
+
 /* footer bar for the download buttons in the media page */
 .footer {
   background-color: black;
@@ -145,10 +152,6 @@ a:hover {
   width: 50%;
   height: 250px;
   text-align: left;
-  -webkit-user-select: none;  
-  -moz-user-select: none;    
-  -ms-user-select: none;      
-  user-select: none;
 }
 
 .home_jumbotron {
@@ -165,11 +168,6 @@ a:hover {
   
   border-radius: 6px;
   font-family: 'Montserrat', serif;
-
-  -webkit-user-select: none;  
-  -moz-user-select: none;    
-  -ms-user-select: none;      
-  user-select: none;
 }
 
 
