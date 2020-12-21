@@ -32,7 +32,7 @@ app.get('/contacts', function(req, res){
 fetches live player ranking data from Path of Exile's API and outputs
 the rank, name, level, class, and online status info to the ladder
 handlebar*/
-app.get('/ladder', function(req, res){
+app.get('/contacts', function(req, res){
 
   var ladder_list = []
   var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
@@ -50,7 +50,7 @@ app.get('/ladder', function(req, res){
     'online': data.entries[i].online};
   }
   var resObj = {queryObj: queryList};
-  res.render('ladder', resObj);
+  res.render('contacts', resObj);
 });
 
 
