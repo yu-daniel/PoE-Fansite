@@ -65,6 +65,7 @@ img:hover {
 .container {
   position: relative;
   width: 50%;
+  text-align: center;
 }
 
 .image {
@@ -74,6 +75,7 @@ img:hover {
   height: auto;
   transition: .5s ease;
   backface-visibility: hidden;
+  text-align: center;
 }
 
 .middle {
@@ -89,10 +91,12 @@ img:hover {
 
 .container:hover .image {
   opacity: 0.8;
+  text-align: center;
 }
 
 .container:hover .middle {
   opacity: 0.8;
+  text-align: center;
 }
 
 .text {
@@ -100,6 +104,7 @@ img:hover {
   color: white;
   font-size: 16px;
   padding: 16px 32px;
+  text-align: center;
 }
 
 
@@ -122,6 +127,7 @@ img:hover {
   font-style: bold;
   font-size: 24px;
   color: white;
+  text-align: center;
 }
 
 .projects {
