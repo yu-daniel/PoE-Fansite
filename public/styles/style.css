@@ -45,14 +45,14 @@ div.build-wallpaper {
 
 }
 
-.leftBar {
+/*.leftBar {
   background-color: black;
   overflow: hidden;
-  /* border: 1px solid rgb(252, 198, 3); */
+   border: 1px solid rgb(252, 198, 3); 
   position: absolute;
   top: 3px;
   right: 25px;
-}
+}*/
 
 /* https://stackoverflow.com/questions/5590214/make-child-div-stretch-across-width-of-page */
 /* the background for the horizontal menu, (i.e. black background) */
