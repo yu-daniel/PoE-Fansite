@@ -53,6 +53,11 @@ img {
   border: 2px solid white;
 }
 
+img: hover {
+  opacity: 0.5; 
+  filter: alpha(opacity=40);
+}
+
 /*div {
   border: 1px solid #bfbfbf;
 }*/
