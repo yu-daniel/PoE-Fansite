@@ -47,6 +47,7 @@ div.build-wallpaper {
 img {
   width: 300px;
   height: 300px;
+  margin-bottom: 5px;
 
   border-radius: 8px;
   border: 1px solid #bfbfbf;
@@ -54,7 +55,7 @@ img {
 
 .projects {
   color: #bfbfbf;
-  border: 1px solid rgb(252, 198, 3); 
+  border: 2px solid white; 
   background-color: transparent;
   top: 300px;
   position: absolute;
