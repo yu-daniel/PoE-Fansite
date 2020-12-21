@@ -150,7 +150,7 @@ a:hover {
 .home_jumbotron {
   color: black;
   border: 1px solid red; 
-  background-color: white;
+  background-color:transparent;
   top: 200px;
   position: absolute;
   left: 25%;
@@ -163,8 +163,8 @@ a:hover {
 
 .home_jumbotron1 {
   color: black;
-  border: 1px solid red; 
-  background-color: black;
+  border: 1px solid blue; 
+  background-color:transparent;
   top: 250px;
   position: absolute;
   left: 25%;
@@ -177,9 +177,9 @@ a:hover {
 
 .home_jumbotron2 {
   color: black;
-  border: 1px solid red; 
-  background-color: green;
-  top: 300px;
+  border: 1px solid green; 
+  background-color:transparent;
+  top: 280px;
   position: absolute;
   left: 25%;
   right: 25%;
