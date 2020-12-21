@@ -160,7 +160,6 @@ a:hover {
   text-align: left;
   
   border-radius: 6px;
-  z-index: 1;
   font-family: 'Montserrat', serif;
 }
 
@@ -173,7 +172,7 @@ a:hover {
 
 .home_jumbotron_text1 {
   position: relative;
-  padding: 20px;
+  /*padding: 20px;*/
   font-size: 26px;
 }
 
