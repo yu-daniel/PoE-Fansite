@@ -136,7 +136,7 @@ a:hover {
 
 .home_buttons {
   color: #bfbfbf;
-  border: 1px solid rgb(252, 198, 3); 
+  /*border: 1px solid rgb(252, 198, 3); */
   background-color:transparent;
   top: 100px;
   position: absolute;
@@ -159,14 +159,14 @@ a:hover {
   height: 300px;
   text-align: left;
   font-size: 56px;
-  border-radius: 8px;
+  border-radius: 6px;
   z-index: 1;
 
 }
 
 .home_jumbotron1 {
   color: black;
-  border: 1px solid green; 
+  /*border: 1px solid green; */
   background-color: white;
   top: 85px;
   position: absolute;
