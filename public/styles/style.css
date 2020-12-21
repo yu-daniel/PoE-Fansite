@@ -148,9 +148,9 @@ a:hover {
 }
 
 .home_jumbotron {
-  color: red;
+  color: black;
   border: 1px solid red; 
-  background-color:transparent;
+  background-color: white;
   top: 200px;
   position: absolute;
   left: 25%;
@@ -158,6 +158,7 @@ a:hover {
   width: 50%;
   height: 250px;
   text-align: left;
+  border-radius: 6px;
 }
 
 
