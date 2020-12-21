@@ -1,12 +1,13 @@
 /*https://www.w3schools.com/cssref/pr_background-attachment.asp*/
 
 /* set general background image for all pages, if not specified */
-/*body {
-  background-repeat: no-repeat;
+body, html {
+/*  background-repeat: no-repeat;
   background-attachment: fixed;
-  background-image: url('/img/bg2.jpg');
+  background-image: url('/img/bg2.jpg');*/
+  height: 100%;
 }
-*/
+
 div.home-wallpaper {
 
   height: 100%;
@@ -37,7 +38,7 @@ div.contact-wallpaper {
 }
 
 div.build-wallpaper {
-  width: auto;
+  /*width: auto;*/
   /*height: 900px;*/
   background-image:url('/img/bg3.jpg');
 
