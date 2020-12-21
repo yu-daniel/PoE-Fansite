@@ -70,6 +70,7 @@ app.use(function(err, req, res, next){
 });
 
 // tell Express to listen at which port
-app.listen(app.get('port'), function(){
-  console.log(`Daniel's server started on http://${process.env.HOSTNAME}:${app.get('port')}; press Ctrl-C to terminate.`);
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, () => {
+    console.log(`Our app is running on port ${ PORT }`);
 });
