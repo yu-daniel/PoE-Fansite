@@ -1,0 +1,38 @@
+{{!-- For complete references, see Read Me (github) from the front page. --}}
+
+<script type="text/javascript" src="/JS/API-source.js" defer></script>
+
+<div class="ladderbox">
+	<div class="ladder-header">
+		<h2>Live Data for Player Rankings!</h2>
+	</div>
+
+	<div class="scrollbox">
+		<table class="myLadder">
+			<tr class="ladderText">
+				<th>Rank:</th>
+				<th>Character:</th>
+				<th>Level:</th>
+				<th>Class:</th>
+				<th>Online:</th>
+			</tr>
+			{{#if queryObj.length}}
+				<tbody class="addColor">
+					{{#each queryObj}}
+						<tr class="ladderText">
+							<td>{{this.rank}}</td>
+							<td >{{this.name}}</td>
+							<td>{{this.level}}</td>
+							<td>{{this.class}}</td>
+							<td>{{this.online}}</td>
+						</tr>
+					{{/each}}
+				</tbody>
+			{{/if}}
+		</table>
+	</div>
+</div>
+
+<div id="APIbox" class="linkbox"></div>
+
+<div class="ladder-wallpaper"></div>

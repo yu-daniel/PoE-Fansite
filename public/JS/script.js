@@ -15,8 +15,8 @@ function createButtons(){
   var divLeft = document.createElement("div")
   divLeft.classList = "rightBar"
 
-  labels = ["HOME", "NEWS", "MEDIA", "LADDER"]
-  category = ["home", "basics", "build", "ladder"]
+  labels = ["Home", "Blog", "Projects", "Contact"]
+  category = ["home", "blog", "projects", "contact"]
   for (var i=0; i<4; i++){
     var button = document.createElement("button")
     button.textContent = labels[i]
@@ -51,12 +51,12 @@ createButtons()
 trigger one of the "click" functions below that leads to a specific
 webpage */
 document.getElementById("home").addEventListener('click', clickHome)
-document.getElementById("basics").addEventListener('click', clickBasics)
-document.getElementById("build").addEventListener('click', clickBuild)
-document.getElementById("ladder").addEventListener('click', clickLadder)
+document.getElementById("blog").addEventListener('click', clickBlog)
+document.getElementById("projects").addEventListener('click', clickProjects)
 document.getElementById("contact").addEventListener('click', clickContact)
-document.getElementById("poeofficial").addEventListener('click', clickOfficial)
-document.getElementById("twitch").addEventListener('click', clickTwitch)
+// document.getElementById("contact").addEventListener('click', clickContact)
+// document.getElementById("poeofficial").addEventListener('click', clickOfficial)
+// document.getElementById("twitch").addEventListener('click', clickTwitch)
 
 
 /* Reference (1)  
@@ -66,27 +66,27 @@ function clickHome(){
   window.location.href = "/";
 }
 
-function clickBasics(){
-  window.location.href = "/basics";
+function clickBlog(){
+  window.location.href = "/blog";
 }
 
-function clickBuild(){
-  window.location.href = "/build";
-}
-
-function clickLadder(){
-  window.location.href = "/ladder";
+function clickProjects(){
+  window.location.href = "/projects";
 }
 
 function clickContact(){
   window.location.href = "/contact";
 }
 
-function clickOfficial(){
-  window.location.href = "https://www.pathofexile.com/";
-}
+// function clickContact(){
+//   window.location.href = "/contact";
+// }
 
-function clickTwitch(){
-  window.location.href = "https://www.twitch.tv/directory/game/Path%20of%20Exile"
-}
+// function clickOfficial(){
+//   window.location.href = "https://www.pathofexile.com/";
+// }
+
+// function clickTwitch(){
+//   window.location.href = "https://www.twitch.tv/directory/game/Path%20of%20Exile"
+// }
 
