@@ -15,8 +15,8 @@ function createButtons(){
   var divLeft = document.createElement("div")
   divLeft.classList = "rightBar"
 
-  labels = ["Home", "Blog", "Projects", "Contact"]
-  category = ["home", "blog", "projects", "contact"]
+  labels = ["Home", "Blog", "Projects", "About", "Contact"]
+  category = ["home", "blog", "projects", "about", "contact"]
   for (var i=0; i<4; i++){
     var button = document.createElement("button")
     button.textContent = labels[i]
@@ -53,6 +53,7 @@ webpage */
 document.getElementById("home").addEventListener('click', clickHome)
 document.getElementById("blog").addEventListener('click', clickBlog)
 document.getElementById("projects").addEventListener('click', clickProjects)
+document.getElementById("about").addEventListener('click', clickAbout)
 document.getElementById("contact").addEventListener('click', clickContact)
 // document.getElementById("contact").addEventListener('click', clickContact)
 // document.getElementById("poeofficial").addEventListener('click', clickOfficial)
@@ -72,6 +73,10 @@ function clickBlog(){
 
 function clickProjects(){
   window.location.href = "/projects";
+}
+
+function clickContact(){
+  window.location.href = "/about";
 }
 
 function clickContact(){
