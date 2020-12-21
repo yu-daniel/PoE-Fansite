@@ -159,6 +159,8 @@ a:hover {
   height: 250px;
   text-align: left;
   border-radius: 8px;
+  font-size: 36px;
+
 }
 
 .home_jumbotron1 {
@@ -170,6 +172,7 @@ a:hover {
   height: 250px;
   text-align: left;
   border-radius: 8px;
+  font-size: 20px;
 }
 
 
