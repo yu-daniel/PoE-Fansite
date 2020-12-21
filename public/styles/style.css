@@ -157,7 +157,7 @@ a:hover {
 .home_jumbotron {
   color: black;
   /*border: 1px solid red; */
-  background-color: white;
+  background-color: transparent;
   top: 200px;
   position: absolute;
   left: 25%;
@@ -260,7 +260,7 @@ li span {
 /* this div holds the link buttons in the bottom of the front page */
 /* the div is made centered to allow the links to be in the center */
 .home-div {
-  color: w#bfbfbf;
+  color: #bfbfbf;
   /* border: 1px solid rgb(252, 198, 3); */
   background-color:transparent;
   top: 900px;
