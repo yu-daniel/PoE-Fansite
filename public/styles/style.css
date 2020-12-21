@@ -166,16 +166,16 @@ a:hover {
 }
 
 .home {
-  border: 1px solid #bfbfbf;
-  margin-top: 3%;
+  color: w#bfbfbf;
+  /* border: 1px solid rgb(252, 198, 3); */
+  background-color:transparent;
+  top: 1000px;
+  position: absolute;
   left: 25%;
   right: 25%;
   width: 50%;
-  height: 85%;
-  overflow-y: scroll;
-  position: absolute;
-  background-color: #0d0d0d;
-  color: #bfbfbf;
+  height: 250px;
+  text-align: center;
 }
 
 
