@@ -164,29 +164,16 @@ a:hover {
   font-family: 'Montserrat', serif;
 }
 
-.home_jumbotron1 {
-  color: black;
-  /*border: 1px solid green; */
-  background-color: white;
-  top: 85px;
-  position: absolute;
-  height: 200px;
-  text-align: left;
-  border-radius: 8px;
-  font-size: 36px;
-  border-radius: 8px;
-  z-index: 2;
+
+.home_jumbotron_text {
+  position: relative;
+  top: 0;
+  right: 0;
 }
 
-  .home_jumbotron_text {
-    position: relative;
-    top: 0;
-    right: 0;
-  }
-
-  .home_jumbotron_text1 {
-    position: relative;
-  }
+.home_jumbotron_text1 {
+  position: relative;
+}
 
 
 
