@@ -16,15 +16,15 @@ app.get('/', function(req, res){
 });
 
 app.get('/blog', function(req, res){
-	res.render('basics')
+	res.render('blog')
 });
 
 app.get('/projects', function(req, res){
-  res.render('build')
+  res.render('projects')
 });
 
 app.get('/contacts', function(req, res){
-  res.render('contact')
+  res.render('contacts')
 });
 
 
