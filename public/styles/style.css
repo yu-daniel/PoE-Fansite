@@ -9,7 +9,6 @@ body, html {
 }
 
 div.home-wallpaper {
-
   height: 100%;
   background-image:url('/img/bg2.jpg');
   background-attachment: fixed;
@@ -18,36 +17,31 @@ div.home-wallpaper {
   background-size: cover;
 }
 
-/* overwrites the default background with more specific background */
-div.ladder-wallpaper {
-  width: auto;
-  height: 1000px;
-  background-image:url('/img/image9.png');
-}
-
 div.blog-wallpaper {
-  width: auto;
-  height: 1000px;
   background-image:url('/img/image1.jpg');
-}
-
-div.contact-wallpaper {
-  width: auto;
-  height: 1000px;
-  background-image:url('/img/image9.jpg');
-}
-
-div.build-wallpaper {
-  /*width: auto;*/
-  /*height: 900px;*/
-  background-image:url('/img/bg3.jpg');
-
   height: 100%;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+}
 
+div.contact-wallpaper {
+  background-image:url('/img/image9.jpg');
+  height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+div.build-wallpaper {
+  background-image:url('/img/bg3.jpg');
+  height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .no-select {
