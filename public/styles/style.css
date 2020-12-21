@@ -65,7 +65,7 @@ img:hover {
 .container {
   position: relative;
   width: 50%;
-  top: 250px;
+  top: 150px;
 }
 
 .image {
@@ -118,7 +118,7 @@ img:hover {
 
   /*border: 1px solid rgb(252, 198, 3); */
   background-color: transparent;
-  top: 150px;
+  top: 180px;
   position: absolute;
   left: 25%;
   right: 25%;
