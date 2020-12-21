@@ -58,6 +58,10 @@ div {
   border: 1px solid #bfbfbf;
 }
 
+.project-title {
+  font-family: 'Rubik', serif;
+}
+
 .projects {
   color: #bfbfbf;
   /*border: 2px solid white; */
@@ -305,7 +309,7 @@ li span {
   left: 25%;
   right: 25%;
   width: 50%;
-  height: 250px;
+  height: 100px;
   text-align: center;
 }
 
