@@ -148,7 +148,7 @@ a:hover {
 }
 
 .home_jumbotron {
-  color: white;
+  color: black;
   /*border: 1px solid red; */
   background-color: white;
   top: 200px;
@@ -159,11 +159,12 @@ a:hover {
   height: 250px;
   text-align: left;
   font-size: 56px;
+  z-index: 1;
 
 }
 
 .home_jumbotron1 {
-  color: white;
+  color: black;
   border: 1px solid white; 
   background-color: white;
   top: 85px;
@@ -173,6 +174,7 @@ a:hover {
   border-radius: 8px;
   font-size: 36px;
   border-radius: 8px;
+  z-index: 2;
 }
 
 
