@@ -61,7 +61,8 @@ div {
 .project-title {
   font-family: 'Rubik', serif;
   font-style: bold;
-  font-size: 12px;
+  font-size: 24px;
+  display: inline
 }
 
 .projects {
