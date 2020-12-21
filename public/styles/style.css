@@ -60,6 +60,8 @@ img:hover {
   filter: alpha(opacity=40);
 }
 
+
+/*#########################################################*/
 .container {
   position: relative;
   width: 50%;
@@ -100,6 +102,7 @@ img:hover {
   padding: 16px 32px;
 }
 
+/*#########################################################*/
 
 /*div {
   border: 1px solid #bfbfbf;
