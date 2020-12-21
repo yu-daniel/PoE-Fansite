@@ -165,11 +165,8 @@ a:hover {
   color: black;
   border: 1px solid green; 
   background-color:transparent;
-  top: 220px;
-  position: absolute;
-  left: 25%;
-  right: 25%;
-  width: 50%;
+  top: 100px;
+
   height: 250px;
   text-align: left;
   border-radius: 8px;
