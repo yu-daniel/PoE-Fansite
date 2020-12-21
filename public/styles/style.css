@@ -65,8 +65,6 @@ img:hover {
 .container {
   position: relative;
   width: 50%;
-  left: 25%;
-  right: 25%;
 }
 
 .image {
