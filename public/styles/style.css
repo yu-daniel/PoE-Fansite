@@ -65,7 +65,7 @@ img:hover {
 .container {
   position: relative;
   width: 50%;
-  top: 400px;
+  top: 250px;
 }
 
 .image {
@@ -116,10 +116,9 @@ img:hover {
   font-size: 36px;
   color: white;
 
-  color: #bfbfbf;
   /*border: 1px solid rgb(252, 198, 3); */
   background-color: transparent;
-  top: 250px;
+  top: 150px;
   position: absolute;
   left: 25%;
   right: 25%;
