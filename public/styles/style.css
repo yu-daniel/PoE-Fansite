@@ -114,6 +114,17 @@ div {
   font-style: bold;
   font-size: 36px;
   color: white;
+
+  color: #bfbfbf;
+  /*border: 1px solid rgb(252, 198, 3); */
+  background-color: transparent;
+  top: 100px;
+  position: absolute;
+  left: 25%;
+  right: 25%;
+  width: 50%;
+  height: 250px;
+  text-align: center;
 }
 
 .project-title-content {
