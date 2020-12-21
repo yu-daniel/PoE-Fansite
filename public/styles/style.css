@@ -161,6 +161,11 @@ a:hover {
   
   border-radius: 6px;
   font-family: 'Montserrat', serif;
+  
+  -webkit-user-select: none;  
+  -moz-user-select: none;    
+  -ms-user-select: none;      
+  user-select: none;
 }
 
 
