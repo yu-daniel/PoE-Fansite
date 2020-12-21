@@ -113,10 +113,6 @@ a:hover {
 .center-div {
   width: 100%;
   text-align: center;
-  -webkit-user-select: none;  
-  -moz-user-select: none;    
-  -ms-user-select: none;      
-  user-select: none;
 }
 
 #time-line-header{
@@ -149,12 +145,6 @@ a:hover {
   width: 50%;
   height: 250px;
   text-align: left;
-
-  -webkit-user-select: none;  
-  -moz-user-select: none;    
-  -ms-user-select: none;      
-  user-select: none;
-}
 }
 
 .home_jumbotron {
