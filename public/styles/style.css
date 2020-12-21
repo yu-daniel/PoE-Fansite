@@ -4,7 +4,7 @@
 body {
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-image: url('/img/bg2.jpg');
+  background-image: url('/img/bg0.jpg');
 }
 
 /* overwrites the default background with more specific background */
