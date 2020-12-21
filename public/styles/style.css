@@ -166,13 +166,13 @@ a:hover {
 
 .home_jumbotron_text {
   position: relative;
-  padding-left: 20px;
+  padding: 30px 0px 0px 20px;
   font-size: 56px;
 }
 
 .home_jumbotron_text1 {
   position: relative;
-  /*padding: 20px;*/
+  padding-left: 40px;
   font-size: 26px;
 }
 
