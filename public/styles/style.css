@@ -148,15 +148,15 @@ a:hover {
 }
 
 .home_jumbotron {
-  color: #bfbfbf;
+  color: red;
   border: 1px solid rgb(252, 198, 3); 
   background-color:transparent;
-  top: 100px;
+  top: 200px;
   position: absolute;
   left: 25%;
   right: 25%;
   width: 50%;
-  height: 350px;
+  height: 250px;
   text-align: left;
 }
 
