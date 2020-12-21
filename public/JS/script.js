@@ -75,7 +75,7 @@ function clickProjects(){
 }
 
 function clickContact(){
-  window.location.href = "/contact";
+  window.location.href = "/contacts";
 }
 
 // function clickContact(){
