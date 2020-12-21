@@ -36,7 +36,6 @@ div.build-wallpaper {
 
 /* styling for the left/right div that hold the buttons in the horizontal menu */
 .rightBar {
-  padding-right: 300px;
 
 
 }
@@ -87,6 +86,7 @@ div.build-wallpaper {
   background-color: #0d0d0d;
   border-radius: 5px;
   color: #bfbfbf;
+  padding-right: 3px;
 }
 
 .buttons:hover{
