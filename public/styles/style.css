@@ -55,9 +55,9 @@ img {
 
 .projects {
   color: #bfbfbf;
-  border: 2px solid white; 
+  /*border: 2px solid white; */
   background-color: transparent;
-  top: 300px;
+  top: 200px;
   position: absolute;
   left: 25%;
   right: 25%;
