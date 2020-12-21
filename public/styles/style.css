@@ -40,6 +40,7 @@ div.build-wallpaper {
   overflow: hidden;
 
   margin: auto;
+  width: 50%;
 
 
 /*  position: absolute;
@@ -59,7 +60,7 @@ div.build-wallpaper {
 
 /* https://stackoverflow.com/questions/5590214/make-child-div-stretch-across-width-of-page */
 /* the background for the horizontal menu, (i.e. black background) */
-.backBar {
+/*.backBar {
   background-color: black;
   border: 1px solid #bfbfbf;
   position: absolute;
@@ -67,7 +68,7 @@ div.build-wallpaper {
   top: 0;
   left: 0;
   right: 0;
-}
+}*/
 
 /* footer bar for the download buttons in the media page */
 .footer {
