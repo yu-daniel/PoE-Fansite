@@ -47,10 +47,10 @@ div.build-wallpaper {
 img {
   width: 300px;
   height: 300px;
-  margin-bottom: 5px;
+  margin-bottom: 8px;
 
   border-radius: 8px;
-  border: 1px solid #bfbfbf;
+  border: 2px solid white;
 }
 
 .projects {
