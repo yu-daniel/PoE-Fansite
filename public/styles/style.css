@@ -49,7 +49,16 @@ img {
 }
 
 .projects {
+  color: #bfbfbf;
+  /*border: 1px solid rgb(252, 198, 3); */
+  background-color: transparent;
   top: 300px;
+  position: absolute;
+  left: 25%;
+  right: 25%;
+  width: 50%;
+  height: 250px;
+  text-align: center;
 }
 
 .no-select {
