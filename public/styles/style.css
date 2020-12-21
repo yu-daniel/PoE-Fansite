@@ -37,9 +37,16 @@ div.contact-wallpaper {
 }
 
 div.build-wallpaper {
-  width: auto;
-  height: 900px;
+/*  width: auto;
+  height: 900px;*/
   background-image:url('/img/bg3.jpg');
+
+  height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
 }
 
 .no-select {
