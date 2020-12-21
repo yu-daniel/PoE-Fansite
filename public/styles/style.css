@@ -163,23 +163,9 @@ a:hover {
 
 .home_jumbotron1 {
   color: black;
-  border: 1px solid blue; 
-  background-color:transparent;
-  top: 250px;
-  position: absolute;
-  left: 25%;
-  right: 25%;
-  width: 50%;
-  height: 250px;
-  text-align: left;
-  border-radius: 8px;
-}
-
-.home_jumbotron2 {
-  color: black;
   border: 1px solid green; 
   background-color:transparent;
-  top: 280px;
+  top: 220px;
   position: absolute;
   left: 25%;
   right: 25%;
@@ -188,7 +174,6 @@ a:hover {
   text-align: left;
   border-radius: 8px;
 }
-
 
 
 
