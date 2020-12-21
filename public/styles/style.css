@@ -47,10 +47,10 @@ div.build-wallpaper {
 img {
   width: 100%;
 }
-/*div {
-  border: 1px solid black;
-  height: 100px;
-}*/
+
+.projects {
+  top: 300px;
+}
 
 .no-select {
   -webkit-user-select: none;  
