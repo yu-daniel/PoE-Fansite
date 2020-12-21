@@ -82,11 +82,10 @@ div.build-wallpaper {
 
 /* styling and effects for buttons */
 .buttons {
-  /* border: 1px solid rgb(252, 198, 3) */
+  border: 1px solid rgb(252, 198, 3) 
   background-color: #0d0d0d;
   border-radius: 5px;
   color: #bfbfbf;
-  padding-right: 300px;
 }
 
 .buttons:hover{
