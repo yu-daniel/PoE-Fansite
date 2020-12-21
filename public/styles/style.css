@@ -156,9 +156,10 @@ a:hover {
   left: 25%;
   right: 25%;
   width: 50%;
-  height: 250px;
+  height: 300px;
   text-align: left;
   font-size: 56px;
+  border-radius: 8px;
   z-index: 1;
 
 }
