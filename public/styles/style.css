@@ -44,7 +44,7 @@ div.build-wallpaper {
   background-size: cover;
 }
 
-/*img {
+img {
   width: 300px;
   height: 300px;
   margin-right: 1px;
@@ -57,9 +57,9 @@ div.build-wallpaper {
 img:hover {
   opacity: 0.3; 
   filter: alpha(opacity=40);
-}*/
+}
 
-img {
+/*img {
   width: 100%;
   margin-right: 1px;
   margin-bottom: 8px;
@@ -71,12 +71,12 @@ img {
 img:hover {
   opacity: 0.3; 
   filter: alpha(opacity=40);
-}
+}*/
 
 /*#########################################################*/
 .container {
   position: relative;
-  /*width: 50%;*/
+  width: 50%;
   top: 100px;
 }
 
