@@ -315,18 +315,25 @@ h1.content-white, h3.content-white {
 
 
 /* Small devices (tablets, 768px and up) */
-@media (min-width: 768px) {
+@media (min-width: 200px) {
     .jumbotron h1 {
         font-size: 4em;
         color: red;
     }
 }
 
+@media (min-width: 400px) {
+    .jumbotron h1 {
+        font-size: 4em;
+        color: green;
+    }
+}
+
 /* Medium devices (desktops, 992px and up) */
-@media (min-width: 992px) {
+@media (min-width: 600px) {
     .jumbotron h1 {
         font-size: 6em;
-        color: green;
+        color: blue;
     }
 }
 
