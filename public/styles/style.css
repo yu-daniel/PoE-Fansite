@@ -111,6 +111,8 @@ img:hover {
   /*controls the height of the overlap*/
   padding: 110px 42px;
   border-radius: 6px;
+
+  text-align: left
 }
 
 
