@@ -113,8 +113,8 @@ img:hover {
   border-radius: 6px;
 
   text-align: left
-}
 
+}
 
 
 /*#########################################################*/
@@ -499,4 +499,8 @@ li span {
   margin-top: 50px;
   /* border: 1px solid rgb(252, 198, 3); */
   text-align: center;
+}
+
+.disable-underline {
+  text-decoration: none;
 }
