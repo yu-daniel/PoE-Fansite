@@ -2,13 +2,13 @@
 
 /* set general background image for all pages, if not specified */
 body, html {
-/*  background-repeat: no-repeat;
+  background-image: url('/img/bg2.jpg');
   background-attachment: fixed;
-  background-image: url('/img/bg2.jpg');*/
-  height: 100%;
+  background-repeat: no-repeat;
+  background-position: 100%;
 }
 
-div.home-wallpaper {
+/*div.home-wallpaper {
   height: 100%;
   background-image:url('/img/bg2.jpg');
   background-attachment: fixed;
@@ -42,7 +42,7 @@ div.build-wallpaper {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-}
+}*/
 
 img {
   width: 100%;
