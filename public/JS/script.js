@@ -13,7 +13,7 @@ body for use in all the webpages.
 function createButtons(){
 
   var divLeft = document.createElement("div")
-  divLeft.classList = "rightBar"
+  divLeft.classList = "nav-item active"
 
   labels = ["Home", "Blog", "Projects", "About", "Contact"]
   category = ["home", "blog", "projects", "about", "contact"]
