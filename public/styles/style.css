@@ -3,10 +3,16 @@
 /* set general background image for all pages, if not specified */
 body, html {
   background-image: url('/img/bg2.jpg');
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  background-position: 100%;
-  background-size: 100% 100%
+  background-attachment: center fixed;
+  background-repeat: no-repeat center;
+
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
+  /*background-position: 100%;*/
+  /*background-size: 100% 100%*/
 
 }
 
