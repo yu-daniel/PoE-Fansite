@@ -82,7 +82,7 @@ img:hover {
   top: 48%;
   left: 50%;
 
-  /*height: auto;*/
+  height: auto;
   width: 95%;
   border: 3px solid white;
   border-radius: 8px; 
