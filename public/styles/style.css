@@ -284,7 +284,7 @@ a:hover {
   width: 800px;
   background-color: transparent;
   margin: 0 auto
-  color: white;
+  /*color: white;*/
 }
 
 .container {
