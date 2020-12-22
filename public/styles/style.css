@@ -90,13 +90,35 @@ img:hover {
 }
 
 .middle {
-  transition: .3s ease;
+  /*original:*/
+/*  transition: .3s ease;
   opacity: 0;
   position: absolute;
   top: 48%;
   left: 50%;
 
   width: 94%;
+  border: 3px solid white;
+  border-radius: 8px; 
+
+
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+*/
+
+
+
+  /*experimental:*/
+  display: block;
+  transition: .3s ease;
+  opacity: 0;
+  position: absolute;
+  top: 48%;
+  left: 50%;
+
+  height: auto;
+  width: 100%;
   border: 3px solid white;
   border-radius: 8px; 
 
