@@ -284,18 +284,12 @@ a:hover {
   width: 800px;
   background-color: transparent;
   margin: 0 auto
+  color: white;
 }
 
 .container {
   text-align: center
 }
-
-h1.center-text {
-  text-align: center
-  color: white;
-}
-
-=
 
 
 
