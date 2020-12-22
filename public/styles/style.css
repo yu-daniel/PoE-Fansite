@@ -500,6 +500,7 @@ a, u, img {
 p.ex1 {
   color: white;
   text-align: left;
+  display: inline
 }
 
 p.ex2 {
