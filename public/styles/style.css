@@ -286,7 +286,9 @@ a:hover {
   margin: 0 auto
 }
 
-
+.jumbo-container {
+  text-align: center
+}
 
 
 /*.sources:hover {
