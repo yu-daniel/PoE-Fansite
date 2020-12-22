@@ -494,6 +494,6 @@ li span {
 }
 */
 a, u, img {
-  text-decoration: none;
+  text-decoration: none !important;
 }
 
