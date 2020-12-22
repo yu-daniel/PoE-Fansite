@@ -91,7 +91,7 @@ img:hover {
 
 .middle {
   /*original:*/
-/*  transition: .3s ease;
+  transition: .3s ease;
   opacity: 0;
   position: absolute;
   top: 48%;
@@ -105,12 +105,12 @@ img:hover {
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   text-align: center;
-*/
+
 
 
 
   /*experimental:*/
-  display: block;
+/*  display: block;
   transition: .3s ease;
   opacity: 0;
   position: absolute;
@@ -126,7 +126,7 @@ img:hover {
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   text-align: center;
-}
+}*/
 
 .container:hover .image {
   opacity: 0.8;
