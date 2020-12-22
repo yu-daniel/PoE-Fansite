@@ -280,32 +280,10 @@ a:hover {
   text-align: center;
 }
 
-.home_jumbotron {
-  color: white;
-  /*border: 1px solid red; */
+.jumbotron {
+  width: 500px;
   background-color: transparent;
-  top: 200px;
-  position: absolute;
-  left: 25%;
-  right: 25%;
-  width: 50%;
-  height: 300px;
-  text-align: center;
-  
-  border-radius: 6px;
-  font-family: 'Montserrat', serif;
-}
-
-
-.home_jumbotron_text {
-  position: relative;
-  padding: 30px 0px 0px 0px;
-  font-size: 76px;
-}
-
-.home_jumbotron_text1 {
-  position: relative;
-  font-size: 46px;
+  margin: 0 auto
 }
 
 
@@ -394,9 +372,6 @@ li span {
   text-align: center;
 }
 
-.skip-new-line {
-  display: inline;
-}
 
 /* positions the div that holds the github link/image in the contact us page */
 /*.contact-div {
