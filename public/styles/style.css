@@ -394,6 +394,10 @@ li span {
   text-align: center;
 }
 
+.skip-new-line {
+  display: inline;
+}
+
 /* positions the div that holds the github link/image in the contact us page */
 /*.contact-div {
   position: absolute;
@@ -493,6 +497,7 @@ li span {
   text-align: center;
 }
 */
+
 a, u, img {
   text-decoration: none !important;
 }
@@ -508,3 +513,4 @@ p.ex2 {
   text-align: left;
   /*font-family: "Source Code Pro", serif;*/
   font-size: 12px;
+
