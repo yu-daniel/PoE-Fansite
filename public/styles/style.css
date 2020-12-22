@@ -497,11 +497,11 @@ a, u, img {
   text-decoration: none !important;
 }
 
-p.project-title-style {
-  color: white;
+p.ex1 {
+  color: red;
   text-align: left;
 }
 
-p.project-content-style {
-  color: rgb(128,128,128);
+p.ex2 {
+  color: green;
   text-align: left;
