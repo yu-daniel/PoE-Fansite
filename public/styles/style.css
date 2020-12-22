@@ -91,7 +91,7 @@ img:hover {
 
 .middle {
   /*original:*/
-  transition: .3s ease;
+/*  transition: .3s ease;
   opacity: 0;
   position: absolute;
   top: 48%;
@@ -105,19 +105,19 @@ img:hover {
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   text-align: center;
-
+*/
 
 
 
   /*experimental:*/
-/*  display: block;
+  /*display: block;*/
   transition: .3s ease;
   opacity: 0;
   position: absolute;
   top: 48%;
   left: 50%;
 
-  height: auto;
+  /*height: auto;*/
   width: 95%;
   border: 3px solid white;
   border-radius: 8px; 
@@ -126,7 +126,7 @@ img:hover {
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   text-align: center;
-}*/
+}
 
 .container:hover .image {
   opacity: 0.8;
