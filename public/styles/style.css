@@ -291,6 +291,13 @@ a:hover {
   text-align: center
 }
 
+h1.center-text {
+  text-align: center
+  color: white;
+}
+
+=
+
 
 
 /*.sources:hover {
