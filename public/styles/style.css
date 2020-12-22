@@ -299,6 +299,10 @@ h1.content-white, h3.content-white {
   background-color: black;
 }
 
+.navbar {
+  justify-content: center;
+}
+
 
 
 /*.sources:hover {
