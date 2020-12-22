@@ -78,7 +78,7 @@ img:hover {
 .middle {
   transition: .3s ease;
   opacity: 0;
-  position: absolute;
+  position: relative;
   top: 48%;
   left: 50%;
 
