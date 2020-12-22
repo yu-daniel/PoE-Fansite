@@ -50,7 +50,6 @@ img {
   margin-right: 1px;
   margin-bottom: 8px;
   border-radius: 8px;
-  /*border: 2px solid white;*/
   opacity: 1.0; 
   filter: alpha(opacity=100);
 }
@@ -62,11 +61,11 @@ img:hover {
 
 
 /*#########################################################*/
-.container {
+/*.container {
   position: relative;
   width: 50%;
   top: 100px;
-}
+}*/
 
 .image {
   opacity: 1;
