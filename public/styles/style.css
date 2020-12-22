@@ -1,7 +1,7 @@
 /*https://www.w3schools.com/cssref/pr_background-attachment.asp*/
 
 /* set general background image for all pages, if not specified */
-body {
+body, html{
 /*  background-image: url('/img/bg2.jpg');
   background-attachment: fixed;
   background-repeat: no-repeat;
