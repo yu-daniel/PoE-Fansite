@@ -318,6 +318,7 @@ h1.content-white, h3.content-white {
 @media (min-width: 768px) {
     .jumbotron h1 {
         font-size: 4em;
+        color: red;
     }
 }
 
@@ -325,6 +326,7 @@ h1.content-white, h3.content-white {
 @media (min-width: 992px) {
     .jumbotron h1 {
         font-size: 6em;
+        color: green;
     }
 }
 
@@ -332,6 +334,7 @@ h1.content-white, h3.content-white {
 @media (min-width: 1200px) {
     .jumbotron h1 {
         font-size: 8em;
+        color: orange;
     }
 }
 
