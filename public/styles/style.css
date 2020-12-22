@@ -215,14 +215,14 @@ img:hover {
 
 
 /* styling for links' color, and hover effects */
-/*a {
+a {
   color: #bfbfbf;
 }
 
 a:hover {
   color: #bfbfbf;
   text-decoration: underline;
-}*/
+}
 
 /*.specialLink {
   color: #bfbfbf;
@@ -497,3 +497,6 @@ a, u, img {
   text-decoration: none !important;
 }
 
+.project-content-style {
+  color: #808080;
+}
