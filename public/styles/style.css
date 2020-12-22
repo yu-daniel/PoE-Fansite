@@ -501,6 +501,7 @@ li span {
   text-align: center;
 }
 
-.disable-underline {
+a, u {
   text-decoration: none;
 }
+
