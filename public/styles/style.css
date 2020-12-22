@@ -497,6 +497,5 @@ a, u, img {
   text-decoration: none !important;
 }
 
-p.project-content-style {
-  color: blue;
-}
+p.ex {
+  color: rgb(0,0,255);
