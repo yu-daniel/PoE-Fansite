@@ -297,7 +297,10 @@ h1.content-white, h3.content-white {
 
 .navbar-background {
   background-color: black;
-  text-align: center;
+  position: absolute;
+  top: 50%;
+  right: 20px;
+  transform: translateY(-50%);
 }
 
 
