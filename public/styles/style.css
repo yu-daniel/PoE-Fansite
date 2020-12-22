@@ -286,7 +286,7 @@ a:hover {
   margin: 0 auto
 }
 
-.center-text {
+h1.center-text, p.center-text{
   text-align: center
   color: white;
 }
