@@ -1,20 +1,35 @@
 /*https://www.w3schools.com/cssref/pr_background-attachment.asp*/
 
 /* set general background image for all pages, if not specified */
-body, html {
+/*body, html {
   background-image: url('/img/bg2.jpg');
   background-attachment: fixed;
   background-repeat: no-repeat;
 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  background-position: 100%;
+  background-size: 100% 100%
 
-  /*background-position: 100%;*/
-  /*background-size: 100% 100%*/
+}*/
 
+
+
+
+html { 
+background-image: url('/img/bg2.jpg') no-repeat center center fixed; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
 }
+share 
+
+
+
+
+
+
+
+
 
 /*div.home-wallpaper {
   height: 100%;
