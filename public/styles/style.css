@@ -281,10 +281,14 @@ a:hover {
 }
 
 .jumbotron {
-  width: 800px;
+  /*width: 800px;*/
   background-color: transparent;
-  margin: auto;
-  border: none;
+  width: 100%;
+  background-size: cover;
+  background-position: top center;
+  height: auto;
+/*  margin: auto;
+  border: none;*/
   /*color: white;*/
 }
 
@@ -303,33 +307,6 @@ h1.content-white, h3.content-white {
  /*center navbar buttons*/
 .center {
   margin: auto;
-}
-
-
-
-
-
-
-
-/* Small devices (tablets, 768px and up) */
-@media (min-width: 768px) {
-    .jumbotron h1 {
-        font-size: 4em;
-    }
-}
-
-/* Medium devices (desktops, 992px and up) */
-@media (min-width: 992px) {
-    .jumbotron h1 {
-        font-size: 6em;
-    }
-}
-
-/* Large devices (large desktops, 1200px and up) */
-@media (min-width: 1200px) {
-    .jumbotron h1 {
-        font-size: 8em;
-    }
 }
 
 
