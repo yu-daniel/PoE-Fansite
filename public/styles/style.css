@@ -291,12 +291,10 @@ a:hover {
   text-align: center
 }
 
-h1.center-text {
-  text-align: center
+h1.content-white, p.content-white {
   color: white;
 }
 
-=
 
 
 
