@@ -168,7 +168,7 @@ img:hover {
 }
 
 /* footer bar for the download buttons in the media page */
-.footer {
+/*.footer {
   background-color: black;
   border: 1px solid #bfbfbf;
   position: fixed;
@@ -176,11 +176,11 @@ img:hover {
   bottom: 0;
   left: 0;
   right: 0;
-}
+}*/
 
-#footbar{
+/*#footbar{
   text-align: center;
-}
+}*/
 
 /* https://developer.mozilla.org/en-US/docs/Web/CSS/background-color */
 /* https://www.w3schools.com/howto/howto_css_round_buttons.asp */
@@ -202,7 +202,7 @@ img:hover {
   color: #0d0d0d;
 }
 
-.download-buttons {
+/*.download-buttons {
   background-color: #0d0d0d;
   border-radius: 5px;
   color: #bfbfbf;
@@ -211,20 +211,20 @@ img:hover {
 .download-buttons:hover{
   background-color: #bfbfbf;
   color: #0d0d0d;
-}
+}*/
 
 
 /* styling for links' color, and hover effects */
-a {
+/*a {
   color: #bfbfbf;
 }
 
 a:hover {
   color: #bfbfbf;
   text-decoration: underline;
-}
+}*/
 
-.specialLink {
+/*.specialLink {
   color: #bfbfbf;
 }
 
@@ -239,9 +239,8 @@ a:hover {
   right: 25%;
   width: 50%;
   position: absolute;
-  /* border: 1px solid rgb(252, 198, 3); */
   text-align: center;
-}
+}*/
 
 .center-div {
   width: 100%;
@@ -312,23 +311,22 @@ a:hover {
 
 
 
-.sources:hover {
+/*.sources:hover {
   color: #bfbfbf;
   text-decoration: underline;
-}
+}*/
 
-.ladderbox {
-  /* border: 1px solid rgb(252, 198, 3); */
+/*.ladderbox {
   left: 25%;
   right: 25;
   width: 50%;
   height: 500px;
   top:15%;
   position: fixed;
-}
+}*/
 
 /* div container that holds the ranking table in the ladder page */
-.scrollbox {
+/*.scrollbox {
   overflow: scroll;
   position: absolute;
   left: 26%;
@@ -354,34 +352,32 @@ a:hover {
   color: white;
   background-color: #0d0d0d;
   color: #bfbfbf;
-  /* border: 1px solid rgb(252, 198, 3); */
-}
+}*/
 
 /* https://love2dev.com/blog/customize-bulleted-list/ */
 /* https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-image */
 
 /* changing the default bullet image that comes with li tags to a custom sword image */
-li.sword { 
+/*li.sword { 
   list-style-image: url('/img/W_Sword006.png'); 
   margin-left: 75px;
-}
+}*/
 
 /* https://stackoverflow.com/questions/4373046/css-control-space-between-bullet-and-li */
-li span {
+/*li span {
   position: relative;
   left: -20px;
   top: -12px;
-}
+}*/
 
 /* positioning the unordered HTML list items */
-.entries {
-  /* border: 1px solid rgb(252, 198, 3); */
+/*.entries {
   margin-top: 40px;
   width: 90%;
   margin-bottom: 40px;
   left:3%;
   position: relative;
-}
+}*/
 
 /* this div holds the link buttons in the bottom of the front page */
 /* the div is made centered to allow the links to be in the center */
@@ -399,17 +395,16 @@ li span {
 }
 
 /* positions the div that holds the github link/image in the contact us page */
-.contact-div {
+/*.contact-div {
   position: absolute;
-  /* border: 1px solid rgb(252, 198, 3); */
   left: 50%;
   right: 5%;
   width: 5%;
   top: 90%;
-}
+}*/
 
 /* positioning and slight styling of the jumbotron in the front page */
-.jumbotron {
+/*.jumbotron {
 	color: #bfbfbf;
   background-color:transparent;
   margin-bottom: 5px;
@@ -417,54 +412,52 @@ li span {
   right: 30%;
   width: 40%;
   position: absolute;
-}
+}*/
 
-.jumbotron h1{
+/*.jumbotron h1{
 	font-size: 60px;
 }
 
 .jumbotron p{
 	font-size: 25px;
-}
+}*/
 
 /* set the size of the images inside the picture carousel */
-.carousel-inner img {
+/*.carousel-inner img {
   width: 100%;
   height: 750px;
-}
+}*/
 
 /* position the picture carousel to be in the center of the page */
-.carousel-container {
+/*.carousel-container {
   top: 20%;
   position: absolute;
   left: 20%;
   right: 20%;
   width: 60%;
-}
+}*/
 
 /* position the div that holds the 'leave a comment' form in the contact us page */
-.myForms {
+/*.myForms {
   color: #bfbfbf;
-  /* border: 1px solid rgb(252, 198, 3); */
   position: absolute;
   left: 20%;
   top: 40%;
   width: 20%;
-}
+}*/
 
 /* position the div that holds the 'subscribe' form in the contact us page */
-.scribe-form{
+/*.scribe-form{
   color: #bfbfbf;
-  /* border: 1px solid rgb(252, 198, 3); */
   position: absolute;
   left: 65%;
   top: 45%;
   width: 20%;
   text-align: center;
-}
+}*/
 
 /* position the div that holds the subscriber table in the contact us page */
-#subscribers-box {
+/*#subscribers-box {
   border: 1px solid #bfbfbf;
   position: absolute;
   left: 85%;
@@ -472,36 +465,35 @@ li span {
   top: 15%;
   width: 13%;
   height: 500px;
-}
+}*/
 
 /* adds alternating color for each row in the table from the ladder page */
-.addColor tr:nth-of-type(2n+1){
+/*.addColor tr:nth-of-type(2n+1){
   background-color: #1a1a1a;
   text-align: center;
-}
+}*/
 
-.addColor tr:nth-of-type(2n){
+/*.addColor tr:nth-of-type(2n){
   background-color: #0d0d0d;
   text-align: center;
-}
+}*/
 
-.ladderText{
+/*.ladderText{
   background-color: #0d0d0d;
   text-align: center;
   color: #bfbfbf;
-}
+}*/
 
 /* positions the div that hold the YouTube videos to be in the center */
-.video-div {
+/*.video-div {
   left: 20%;
   right: 20%;
   width: 60;
   margin-top: 50px;
-  /* border: 1px solid rgb(252, 198, 3); */
   text-align: center;
 }
-
-a, u {
+*/
+a, u, img {
   text-decoration: none;
 }
 
