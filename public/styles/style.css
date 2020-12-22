@@ -506,5 +506,5 @@ p.ex1 {
 p.ex2 {
   color: #C0C0C0;
   text-align: left;
-  font-family: "Source Code Pro", serif;
+  /*font-family: "Source Code Pro", serif;*/
   font-size: 12px;
