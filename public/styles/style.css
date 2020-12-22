@@ -497,6 +497,11 @@ a, u, img {
   text-decoration: none !important;
 }
 
-p.ex {
-  color: rgb(0,0,255);
+p.project-title-style {
+  color: white;
+  text-align: left;
+}
+
+p.project-content-style {
+  color: rgb(128,128,128);
   text-align: left;
