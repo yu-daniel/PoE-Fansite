@@ -65,8 +65,6 @@ div.build-wallpaper {
 
 img {
   width: 100%;
-/*  width: 200px;
-  height: 200px;*/
   margin-right: 1px;
   margin-bottom: 8px;
   border-radius: 8px;
@@ -186,24 +184,6 @@ img:hover {
   user-select: none;
 }
 
-/* footer bar for the download buttons in the media page */
-/*.footer {
-  background-color: black;
-  border: 1px solid #bfbfbf;
-  position: fixed;
-  height: 38px;
-  bottom: 0;
-  left: 0;
-  right: 0;
-}*/
-
-/*#footbar{
-  text-align: center;
-}*/
-
-/* https://developer.mozilla.org/en-US/docs/Web/CSS/background-color */
-/* https://www.w3schools.com/howto/howto_css_round_buttons.asp */
-/* https://developer.mozilla.org/en-US/docs/Web/CSS/:hover */
 
 /* styling and effects for buttons */
 .buttons {
@@ -221,17 +201,6 @@ img:hover {
   color: #0d0d0d;
 }
 
-/*.download-buttons {
-  background-color: #0d0d0d;
-  border-radius: 5px;
-  color: #bfbfbf;
-}
-
-.download-buttons:hover{
-  background-color: #bfbfbf;
-  color: #0d0d0d;
-}*/
-
 
 /* styling for links' color, and hover effects */
 a {
@@ -243,23 +212,6 @@ a:hover {
   text-decoration: underline;
 }
 
-/*.specialLink {
-  color: #bfbfbf;
-}
-
-.specialLink:hover {
-  color: #bfbfbf;
-  text-decoration: underline;
-}
-
-.sources {
-  color: #bfbfbf;
-  left: 25%;
-  right: 25%;
-  width: 50%;
-  position: absolute;
-  text-align: center;
-}*/
 
 .center-div {
   width: 100%;
@@ -365,63 +317,6 @@ h1.content-white, h3.content-white {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-/*.sources:hover {
-  color: #bfbfbf;
-  text-decoration: underline;
-}*/
-
-/*.ladderbox {
-  left: 25%;
-  right: 25;
-  width: 50%;
-  height: 500px;
-  top:15%;
-  position: fixed;
-}*/
-
-/* div container that holds the ranking table in the ladder page */
-/*.scrollbox {
-  overflow: scroll;
-  position: absolute;
-  left: 26%;
-  right: 26;
-  width: 47%;
-  height: 700px;
-  border: 1px solid #bfbfbf;
-}
-
-.linkbox {
-  position: fixed;
-  top: 95%;
-  left: 47%;
-  width: 100px;
-  height: 30px;
-  text-align: center;
-}
-
-.ladder-header {
-  position: fixed;
-  top: 10%;
-  left: 38%;
-  color: white;
-  background-color: #0d0d0d;
-  color: #bfbfbf;
-}*/
-
-/* https://love2dev.com/blog/customize-bulleted-list/ */
-/* https://developer.mozilla.org/en-US/docs/Web/CSS/list-style-image */
-
 /* changing the default bullet image that comes with li tags to a custom sword image */
 li.sword { 
   list-style-image: url('/img/W_Sword006.png'); 
@@ -458,107 +353,6 @@ li span {
   height: 100px;
   text-align: center;
 }
-
-
-/* positions the div that holds the github link/image in the contact us page */
-/*.contact-div {
-  position: absolute;
-  left: 50%;
-  right: 5%;
-  width: 5%;
-  top: 90%;
-}*/
-
-/* positioning and slight styling of the jumbotron in the front page */
-/*.jumbotron {
-	color: #bfbfbf;
-  background-color:transparent;
-  margin-bottom: 5px;
-  left: 30%;
-  right: 30%;
-  width: 40%;
-  position: absolute;
-}*/
-
-/*.jumbotron h1{
-	font-size: 60px;
-}
-
-.jumbotron p{
-	font-size: 25px;
-}*/
-
-/* set the size of the images inside the picture carousel */
-/*.carousel-inner img {
-  width: 100%;
-  height: 750px;
-}*/
-
-/* position the picture carousel to be in the center of the page */
-/*.carousel-container {
-  top: 20%;
-  position: absolute;
-  left: 20%;
-  right: 20%;
-  width: 60%;
-}*/
-
-/* position the div that holds the 'leave a comment' form in the contact us page */
-/*.myForms {
-  color: #bfbfbf;
-  position: absolute;
-  left: 20%;
-  top: 40%;
-  width: 20%;
-}*/
-
-/* position the div that holds the 'subscribe' form in the contact us page */
-/*.scribe-form{
-  color: #bfbfbf;
-  position: absolute;
-  left: 65%;
-  top: 45%;
-  width: 20%;
-  text-align: center;
-}*/
-
-/* position the div that holds the subscriber table in the contact us page */
-/*#subscribers-box {
-  border: 1px solid #bfbfbf;
-  position: absolute;
-  left: 85%;
-  right: 10%;
-  top: 15%;
-  width: 13%;
-  height: 500px;
-}*/
-
-/* adds alternating color for each row in the table from the ladder page */
-/*.addColor tr:nth-of-type(2n+1){
-  background-color: #1a1a1a;
-  text-align: center;
-}*/
-
-/*.addColor tr:nth-of-type(2n){
-  background-color: #0d0d0d;
-  text-align: center;
-}*/
-
-/*.ladderText{
-  background-color: #0d0d0d;
-  text-align: center;
-  color: #bfbfbf;
-}*/
-
-/* positions the div that hold the YouTube videos to be in the center */
-/*.video-div {
-  left: 20%;
-  right: 20%;
-  width: 60;
-  margin-top: 50px;
-  text-align: center;
-}
-*/
 
 a, u, img {
   text-decoration: none !important;
