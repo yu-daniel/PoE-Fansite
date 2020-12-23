@@ -239,11 +239,11 @@ h3.custom-sub-header{
 @media (min-width: 200px) {
     .jumbotron h1 {
         font-size: 2em;
-        color: white;
+        color: pink;
     }
     .jumbotron h3 {
         font-size: 2em;
-        color: white;
+        color: pink;
     }
 }
 
