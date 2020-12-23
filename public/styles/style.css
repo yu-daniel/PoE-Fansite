@@ -232,10 +232,10 @@ a:hover {
 
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 200px) {
-/*    .jumbotron h1 {
+    .jumbotron h1 {
         font-size: 2em;
         color: pink;
-    }*/
+    }
     .test {
         font-size: 1em;
         color: pink;
@@ -243,10 +243,10 @@ a:hover {
 }
 
 @media (min-width: 400px) {
-/*    .jumbotron h1 {
+    .jumbotron h1 {
         font-size: 2em;
         color: red;
-    }*/
+    }
     .test {
         font-size: 1em;
         color: green;
@@ -255,10 +255,10 @@ a:hover {
 
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 600px) {
-/*    .jumbotron h1 {
+    .jumbotron h1 {
         font-size: 3em;
         color: green;
-    }*/
+    }
     .test {
         font-size: 1em;
         color: red;
@@ -266,10 +266,10 @@ a:hover {
 }
 
 @media (min-width: 800px) {
-/*    .jumbotron h1 {
+    .jumbotron h1 {
         font-size: 5em;
         color: purple;
-    }*/
+    }
     .test {
         font-size: 1em;
         color: blue;
@@ -278,10 +278,10 @@ a:hover {
 
 /* Large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
-/*    .jumbotron h1 {
+    .jumbotron h1 {
         font-size: 7em;
         color: orange;
-    }*/
+    }
     .test {
         font-size: 1em;
         color: orange;
