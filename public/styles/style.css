@@ -353,15 +353,15 @@ li span {
   text-align: center;
 }
 
-h1.custom-header{
-  /*font-size: 92px;*/
+/*h1.custom-header{
+  font-size: 92px;
   font-style: underline;
-}
+}*/
 
-h3.custom-sub-header{
+/*h3.custom-sub-header{
   font-size: 26px;
 }
-
+*/
 a, u, img {
   text-decoration: none !important;
 }
