@@ -214,9 +214,6 @@ a:hover {
   text-align: center
 }
 
-/*h1.content-white, h3.content-white{
-  color: white;
-}*/
 
 
 .navbar-background {
@@ -290,6 +287,9 @@ a:hover {
     }
 }
 
+.jumbotron h3 {
+  font-size: 12px;
+}
 
 /* changing the default bullet image that comes with li tags to a custom sword image */
 li.sword { 
