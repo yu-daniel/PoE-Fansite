@@ -226,7 +226,7 @@ a:hover {
 }
 
 
-.jumbotron h3 {
+.test {
     font-size: 12px;
 }
 
@@ -236,7 +236,7 @@ a:hover {
         font-size: 2em;
         color: pink;
     }*/
-    .jumbotron h3 {
+    .test {
         font-size: 2em;
         color: pink;
     }
@@ -247,7 +247,7 @@ a:hover {
         font-size: 2em;
         color: red;
     }*/
-    .jumbotron h3 {
+    .test {
         font-size: 2em;
         color: green;
     }
@@ -259,7 +259,7 @@ a:hover {
         font-size: 3em;
         color: green;
     }*/
-    .jumbotron h3 {
+    .test {
         font-size: 3em;
         color: red;
     }
@@ -270,7 +270,7 @@ a:hover {
         font-size: 5em;
         color: purple;
     }*/
-    .jumbotron h3 {
+    .test {
         font-size: 5em;
         color: blue;
     }
@@ -282,7 +282,7 @@ a:hover {
         font-size: 7em;
         color: orange;
     }*/
-    .jumbotron h3 {
+    .test {
         font-size: 7em;
         color: orange;
     }
