@@ -33,7 +33,7 @@ img.project-img:hover {
   top: 100px;
 }*/
 
-.image {
+/*.image {
   opacity: 1;
   display: block;
   width: 100%;
@@ -50,7 +50,6 @@ img.project-img:hover {
   left: 50%;
 
   height: auto;
-  /*controls the width of the overlay*/
   width: 50%;
   border: 3px solid white;
   border-radius: 8px; 
@@ -75,14 +74,13 @@ img.project-img:hover {
   color: white;
   font-size: 16px;
 
-  /*controls the height of the overlap*/
   padding: 0px 42px 110px 0px;
   border-radius: 6px;
 
   text-align: left
 
 }
-
+*/
 
 img {
   width: 100%;
