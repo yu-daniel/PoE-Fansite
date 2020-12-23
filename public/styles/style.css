@@ -13,9 +13,9 @@ body, html{
 }
 
 
-/*div {
+.container {
   border: 1px solid #bfbfbf;
-}*/
+}
 
 .project-title {
   font-family: 'Rubik', serif;
