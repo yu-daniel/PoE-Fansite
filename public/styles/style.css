@@ -258,9 +258,7 @@ a:hover {
   background-size: cover;
   background-position: top center;
   height: auto;
-/*  margin: auto;
-  border: none;*/
-  /*color: white;*/
+
 }
 
 .container {
@@ -355,7 +353,7 @@ li span {
 }
 
 h1.custom-header{
-  font-size: 92px;
+  /*font-size: 92px;*/
   font-style: underline;
 }
 
