@@ -33,6 +33,22 @@ img.project-img:hover {
   top: 100px;
 }
 
+.middle {
+  transition: .3s ease;
+  opacity: 0;
+  position: absolute;
+  top: 48%;
+  left: 50%;
+
+  height: auto;
+  width: 50%;
+  border: 3px solid white;
+  border-radius: 8px; 
+
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+
 /*.image {
   opacity: 1;
   display: block;
