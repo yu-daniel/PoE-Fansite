@@ -27,11 +27,11 @@ img.project-img:hover {
 }
 
 /*#########################################################*/
-/*.container {
+.container {
   position: relative;
   width: 50%;
   top: 100px;
-}*/
+}
 
 /*.image {
   opacity: 1;
