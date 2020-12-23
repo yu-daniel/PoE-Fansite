@@ -229,7 +229,7 @@ h1.content-white, h3.content-white{
 }
 
 
-h4.custom-sub-header{
+p.custom-sub-header{
   font-size: 8px;
 }
 
@@ -241,7 +241,7 @@ h4.custom-sub-header{
         font-size: 2em;
         color: white;
     }
-    .jumbotron h4 {
+    .jumbotron p {
         font-size: 2em;
         color: white;
     }
@@ -252,7 +252,7 @@ h4.custom-sub-header{
         font-size: 2em;
         color: red;
     }
-    .jumbotron h4 {
+    .jumbotron p {
         font-size: 2em;
         color: red;
     }
@@ -264,7 +264,7 @@ h4.custom-sub-header{
         font-size: 3em;
         color: green;
     }
-    .jumbotron h4 {
+    .jumbotron p {
         font-size: 3em;
         color: green;
     }
@@ -275,7 +275,7 @@ h4.custom-sub-header{
         font-size: 5em;
         color: purple;
     }
-    .jumbotron h4 {
+    .jumbotron p {
         font-size: 5em;
         color: purple;
     }
@@ -287,7 +287,7 @@ h4.custom-sub-header{
         font-size: 7em;
         color: orange;
     }
-    .jumbotron h4 {
+    .jumbotron p {
         font-size: 7em;
         color: orange;
     }
