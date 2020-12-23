@@ -354,6 +354,10 @@ li span {
   text-align: center;
 }
 
+h1.custom-header{
+  font-size: 72px;
+}
+
 a, u, img {
   text-decoration: none !important;
 }
@@ -369,4 +373,5 @@ p.ex2 {
   text-align: left;
   /*font-family: "Source Code Pro", serif;*/
   font-size: 12px;
+
 
