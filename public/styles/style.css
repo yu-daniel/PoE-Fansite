@@ -226,7 +226,9 @@ a:hover {
 }
 
 
-
+.jumbotron h3 {
+    font-size: 12px;
+}
 
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 200px) {
