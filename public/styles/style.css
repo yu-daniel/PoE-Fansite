@@ -214,9 +214,9 @@ a:hover {
   text-align: center
 }
 
-h1.content-white, h3.content-white{
+/*h1.content-white, h3.content-white{
   color: white;
-}
+}*/
 
 
 .navbar-background {
@@ -229,9 +229,6 @@ h1.content-white, h3.content-white{
 }
 
 
-h3.custom-sub-header{
-  font-size: 8px;
-}
 
 
 
