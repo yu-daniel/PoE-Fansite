@@ -334,10 +334,10 @@ li span {
   font-style: underline;
 }*/
 
-/*h3.custom-sub-header{
-  font-size: 26px;
+h4.custom-sub-header{
+  font-size: 8px;
 }
-*/
+
 a, u, img {
   text-decoration: none !important;
 }
