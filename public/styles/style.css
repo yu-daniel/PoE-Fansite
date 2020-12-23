@@ -55,6 +55,23 @@ img.project-img:hover {
   border: 3px solid white;
   border-radius: 8px; 
 
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.light-up-cover {
+  transition: .3s ease;
+  opacity: 0;
+  position: absolute;
+  top: 48%;
+  left: 50%;
+
+  height: auto;
+  /*controls the width of the overlay*/
+  width: 50%;
+  border: 3px solid white;
+  border-radius: 8px; 
 
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
