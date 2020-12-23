@@ -10,58 +10,7 @@ body, html{
   -moz-background-size: cover;
   -o-background-size: cover;
   height:100%;
-
-
-
-
-
-/*  background-image: url('/img/bg2.jpg');
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  background-position: 100%;
-  background-size: 100% 100%*/
-
-
 }
-
-
-
-
-/*div.home-wallpaper {
-  height: 100%;
-  background-image:url('/img/bg2.jpg');
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-div.blog-wallpaper {
-  background-image:url('/img/image1.jpg');
-  height: 100%;
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-div.contact-wallpaper {
-  background-image:url('/img/image9.jpg');
-  height: 100%;
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-div.build-wallpaper {
-  background-image:url('/img/bg3.jpg');
-  height: 100%;
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}*/
 
 img {
   width: 100%;
@@ -290,7 +239,7 @@ h1.content-white, h3.content-white{
         font-size: 2em;
         color: white;
     }
-    .jumbotron h3 {
+    .jumbotron h4 {
         font-size: 2em;
         color: white;
     }
@@ -301,7 +250,7 @@ h1.content-white, h3.content-white{
         font-size: 2em;
         color: red;
     }
-    .jumbotron h3 {
+    .jumbotron h4 {
         font-size: 2em;
         color: red;
     }
@@ -313,7 +262,7 @@ h1.content-white, h3.content-white{
         font-size: 3em;
         color: green;
     }
-    .jumbotron h3 {
+    .jumbotron h4 {
         font-size: 3em;
         color: green;
     }
@@ -324,8 +273,8 @@ h1.content-white, h3.content-white{
         font-size: 5em;
         color: purple;
     }
-    .jumbotron h3 {
-        font-size: 2em;
+    .jumbotron h4 {
+        font-size: 5em;
         color: purple;
     }
 }
@@ -336,8 +285,8 @@ h1.content-white, h3.content-white{
         font-size: 7em;
         color: orange;
     }
-    .jumbotron h3 {
-        font-size: 2em;
+    .jumbotron h4 {
+        font-size: 7em;
         color: orange;
     }
 }
