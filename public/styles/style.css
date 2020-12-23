@@ -234,45 +234,45 @@ a:hover {
 @media (min-width: 200px) {
     .jumbotron h1 {
         font-size: 2em;
-        color: pink;
+        color: orange;
     }
     .test {
         font-size: 1em;
-        color: pink;
+        color: white;
     }
 }
 
 @media (min-width: 400px) {
     .jumbotron h1 {
         font-size: 2em;
-        color: red;
+        color: orange;
     }
     .test {
         font-size: 1em;
-        color: green;
+        color: white;
     }
 }
 
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 600px) {
     .jumbotron h1 {
-        font-size: 3em;
-        color: green;
+        font-size: 2em;
+        color: orange;
     }
     .test {
         font-size: 1em;
-        color: red;
+        color: white;
     }
 }
 
 @media (min-width: 800px) {
     .jumbotron h1 {
         font-size: 5em;
-        color: purple;
+        color: orange;
     }
     .test {
         font-size: 1em;
-        color: blue;
+        color: white;
     }
 }
 
@@ -284,7 +284,7 @@ a:hover {
     }
     .test {
         font-size: 1em;
-        color: orange;
+        color: white;
     }
 }
 
