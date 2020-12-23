@@ -33,9 +33,7 @@ img.project-img:hover {
   top: 100px;
 }
 
-
-
-/*.image {
+.image {
   opacity: 1;
   display: block;
   width: 100%;
@@ -82,7 +80,7 @@ img.project-img:hover {
   text-align: left
 
 }
-*/
+
 
 img {
   width: 100%;
@@ -106,7 +104,7 @@ img {
 .project-image{
   width: 100%;
   max-width: 290px;
-  max-height: 166px;
+  max-height: 300px;
 }
 
 .project-title {
