@@ -17,6 +17,10 @@ body, html{
   border: 1px solid #bfbfbf;
 }
 
+.project-container{
+  top: 300px;
+}
+
 .project-title {
   font-family: 'Rubik', serif;
   font-style: bold;
