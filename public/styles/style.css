@@ -230,68 +230,6 @@ h1.content-white, h3.content-white{
 
 
 
-
-
-
-/* Small devices (tablets, 768px and up) */
-@media (min-width: 200px) {
-    .jumbotron h1 {
-        font-size: 2em;
-        color: white;
-    }
-    .jumbotron h4 {
-        font-size: 2em;
-        color: white;
-    }
-}
-
-@media (min-width: 400px) {
-    .jumbotron h1 {
-        font-size: 2em;
-        color: red;
-    }
-    .jumbotron h4 {
-        font-size: 2em;
-        color: red;
-    }
-}
-
-/* Medium devices (desktops, 992px and up) */
-@media (min-width: 600px) {
-    .jumbotron h1 {
-        font-size: 3em;
-        color: green;
-    }
-    .jumbotron h4 {
-        font-size: 3em;
-        color: green;
-    }
-}
-
-@media (min-width: 800px) {
-    .jumbotron h1 {
-        font-size: 5em;
-        color: purple;
-    }
-    .jumbotron h4 {
-        font-size: 5em;
-        color: purple;
-    }
-}
-
-/* Large devices (large desktops, 1200px and up) */
-@media (min-width: 1200px) {
-    .jumbotron h1 {
-        font-size: 7em;
-        color: orange;
-    }
-    .jumbotron h4 {
-        font-size: 7em;
-        color: orange;
-    }
-}
-
-
 /* changing the default bullet image that comes with li tags to a custom sword image */
 li.sword { 
   list-style-image: url('/img/W_Sword006.png'); 
@@ -355,3 +293,61 @@ p.ex2 {
   font-size: 12px;
 
 
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 200px) {
+    .jumbotron h1 {
+        font-size: 2em;
+        color: white;
+    }
+    .jumbotron h4 {
+        font-size: 2em;
+        color: white;
+    }
+}
+
+@media (min-width: 400px) {
+    .jumbotron h1 {
+        font-size: 2em;
+        color: red;
+    }
+    .jumbotron h4 {
+        font-size: 2em;
+        color: red;
+    }
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: 600px) {
+    .jumbotron h1 {
+        font-size: 3em;
+        color: green;
+    }
+    .jumbotron h4 {
+        font-size: 3em;
+        color: green;
+    }
+}
+
+@media (min-width: 800px) {
+    .jumbotron h1 {
+        font-size: 5em;
+        color: purple;
+    }
+    .jumbotron h4 {
+        font-size: 5em;
+        color: purple;
+    }
+}
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    .jumbotron h1 {
+        font-size: 7em;
+        color: orange;
+    }
+    .jumbotron h4 {
+        font-size: 7em;
+        color: orange;
+    }
+}
