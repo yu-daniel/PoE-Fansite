@@ -356,11 +356,11 @@ li span {
 
 h1.custom-header{
   font-size: 92px;
-  font-style: bold;
+  font-style: underline;
 }
 
 h3.custom-sub-header{
-  font-size: 56px;
+  font-size: 26px;
 }
 
 a, u, img {
