@@ -286,14 +286,14 @@ h1.content-white, h3.content-white{
 
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 200px) {
-    .jumbotron h1 {
+    .jumbotron h1, h3 {
         font-size: 2em;
         color: white;
     }
 }
 
 @media (min-width: 400px) {
-    .jumbotron h1 {
+    .jumbotron h1, h3  {
         font-size: 2em;
         color: orange;
     }
@@ -301,15 +301,15 @@ h1.content-white, h3.content-white{
 
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 600px) {
-    .jumbotron h1 {
+    .jumbotron h1, h3  {
         font-size: 3em;
         color: orange;
     }
 }
 
 /* Large devices (large desktops, 1200px and up) */
-@media (min-width: 900px) {
-    .jumbotron h1 {
+@media (min-width: 1200px) {
+    .jumbotron h1, h3  {
         font-size: 8em;
         color: orange;
     }
