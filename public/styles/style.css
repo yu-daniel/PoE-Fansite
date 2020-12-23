@@ -50,6 +50,7 @@ img.project-img:hover {
   left: 50%;
 
   height: auto;
+  /*controls the width of the overlay*/
   width: 50%;
   border: 3px solid white;
   border-radius: 8px; 
@@ -74,6 +75,7 @@ img.project-img:hover {
   color: white;
   font-size: 16px;
 
+  /*controls the height of the overlap*/
   padding: 0px 42px 110px 0px;
   border-radius: 6px;
 
@@ -82,14 +84,6 @@ img.project-img:hover {
 }
 
 
-img {
-  width: 100%;
-}
-/*div {
-  border: 1px solid black;
-  height: 100px;
-}
-*/
 
 
 
@@ -100,12 +94,6 @@ img {
 /*div {
   border: 1px solid #bfbfbf;
 }*/
-
-.project-image{
-  width: 100%;
-  max-width: 290px;
-  max-height: 300px;
-}
 
 .project-title {
   font-family: 'Rubik', serif;
