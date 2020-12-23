@@ -42,23 +42,23 @@ img.project-img:hover {
   backface-visibility: hidden;
 }
 
-.middle {
+/*.middle {
   transition: .3s ease;
   opacity: 0;
   position: absolute;
   top: 48%;
   left: 50%;
 
-  height: auto;
+  height: auto;*/
   /*controls the width of the overlay*/
-  width: 94%;
+/*  width: 94%;
   border: 3px solid white;
   border-radius: 8px; 
 
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   text-align: center;
-}
+}*/
 
 
 
@@ -69,19 +69,19 @@ img.project-img:hover {
 .container:hover .middle {
   opacity: 0.8;
 }
-
+/*
 .text {
   background-color: black;
   color: white;
-  font-size: 16px;
+  font-size: 16px;*/
 
   /*controls the height of the overlap*/
-  padding: 0px 42px 110px 0px;
+/*  padding: 0px 42px 110px 0px;
   border-radius: 6px;
 
   text-align: left
 
-}
+}*/
 
 
 
