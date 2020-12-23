@@ -286,31 +286,58 @@ h1.content-white, h3.content-white{
 
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 200px) {
-    .jumbotron h1, h3 {
+    .jumbotron h1 {
+        font-size: 2em;
+        color: white;
+    }
+    .jumbotron h3 {
         font-size: 2em;
         color: white;
     }
 }
 
 @media (min-width: 400px) {
-    .jumbotron h1, h3  {
+    .jumbotron h1 {
         font-size: 2em;
-        color: orange;
+        color: red;
+    }
+    .jumbotron h3 {
+        font-size: 2em;
+        color: red;
     }
 }
 
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 600px) {
-    .jumbotron h1, h3  {
+    .jumbotron h1 {
         font-size: 3em;
-        color: orange;
+        color: green;
+    }
+    .jumbotron h3 {
+        font-size: 3em;
+        color: green;
+    }
+}
+
+@media (min-width: 800px) {
+    .jumbotron h1 {
+        font-size: 5em;
+        color: purple;
+    }
+    .jumbotron h3 {
+        font-size: 2em;
+        color: purple;
     }
 }
 
 /* Large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
-    .jumbotron h1, h3  {
+    .jumbotron h1 {
         font-size: 7em;
+        color: orange;
+    }
+    .jumbotron h3 {
+        font-size: 2em;
         color: orange;
     }
 }
