@@ -226,7 +226,9 @@ a:hover {
 }
 
 
-
+.jumbotron h3 {
+  font-size: 12px;
+}
 
 
 /* Small devices (tablets, 768px and up) */
@@ -248,7 +250,7 @@ a:hover {
     }
     .jumbotron h3 {
         font-size: 2em;
-        color: red;
+        color: green;
     }
 }
 
@@ -260,7 +262,7 @@ a:hover {
     }
     .jumbotron h3 {
         font-size: 3em;
-        color: green;
+        color: red;
     }
 }
 
@@ -271,7 +273,7 @@ a:hover {
     }
     .jumbotron h3 {
         font-size: 5em;
-        color: purple;
+        color: blue;
     }
 }
 
@@ -287,9 +289,7 @@ a:hover {
     }
 }
 
-.jumbotron h3 {
-  font-size: 12px;
-}
+
 
 /* changing the default bullet image that comes with li tags to a custom sword image */
 li.sword { 
