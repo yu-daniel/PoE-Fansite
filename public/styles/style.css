@@ -85,11 +85,11 @@ img.project-img:hover {
 img {
   width: 100%;
 }
-div {
+/*div {
   border: 1px solid black;
   height: 100px;
 }
-
+*/
 
 
 
@@ -97,9 +97,9 @@ div {
 
 
 
-div {
+/*div {
   border: 1px solid #bfbfbf;
-}
+}*/
 
 .project-title {
   font-family: 'Rubik', serif;
