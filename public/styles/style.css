@@ -119,6 +119,36 @@ img.project-img:hover {
 
 /*#########################################################*/
 
+
+
+
+.showcase-menu {
+  margin-left:20px;
+    margin-right:20px;
+    padding: 0px 20px 0px 20px;
+    background-color: #C37500;
+    behavior: url(/css/border-radius.htc);
+  border-radius: 20px;
+    }
+
+.showcase-menu-social img:hover {
+  background-color: #C37500;
+  opacity:0.7 !important;
+  filter:alpha(opacity=70) !important; /* For IE8 and earlier */
+  box-shadow: 0 0 0px #000000 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 /*div {
   border: 1px solid #bfbfbf;
 }*/
