@@ -287,28 +287,28 @@ h1.content-white, h3.content-white {
 
 @media (min-width: 200px) {
     .jumbotron h1 {
-        font-size: 0.5em;
+        font-size: 1px;
         color: red;
     }
 }
 
 @media (min-width: 400px) {
     .jumbotron h1 {
-        font-size: 24px;
+        font-size: 4px;
         color: green;
     }
 }
 
 @media (min-width: 600px) {
     .jumbotron h1 {
-        font-size: 2em;
+        font-size: 6px;
         color: blue;
     }
 }
 
 @media (min-width: 1200px) {
     .jumbotron h1 {
-        font-size: 3em;
+        font-size: 8px;
         color: orange;
     }
 }
