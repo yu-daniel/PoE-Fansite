@@ -227,7 +227,7 @@ a:hover {
 
 
 .test {
-    font-size: 12px;
+    font-size: 6px;
 }
 
 /* Small devices (tablets, 768px and up) */
@@ -283,7 +283,7 @@ a:hover {
         color: orange;
     }*/
     .test {
-        font-size: 2em;
+        font-size: 1em;
         color: orange;
     }
 }
