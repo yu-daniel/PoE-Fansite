@@ -310,7 +310,7 @@ h1.content-white, h3.content-white{
 /* Large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
     .jumbotron h1, h3  {
-        font-size: 8em;
+        font-size: 7em;
         color: orange;
     }
 }
